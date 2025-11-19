@@ -43,12 +43,12 @@ Visual Effects: The background flashes Green when you win and Red when you lose.
 
 Streak Counter: Counts how many times you win in a row.
 
-Requirements
+Requirements:
 Python installed on your system.
 
 No external libraries are needed (Tkinter comes with Python).
 
-How to Run
+How to Run:
 Download the PROJJECT.py file.
 
 Open your terminal or command prompt in the folder.
